@@ -1,3 +1,4 @@
+#!/usr/bin/python3.6
 import cv2
 import numpy as np
 import os
